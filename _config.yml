@@ -27,8 +27,8 @@ disqus_shortname:
 color:
   primary: eca0ff #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 84ffc9 #FD6E8A
-  secondary-dark: aab2ff #A2122F
+  secondary: aab2ff #FD6E8A
+  secondary-dark: 84ffc9 #A2122F
 
 # Footer settings
 footer:
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: 903 S STATE ST KIRKLAND, WA 98033
+  - line: KIRKLAND, WA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
