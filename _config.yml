@@ -1,7 +1,7 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Kaycee Greimes
+email: kayceegreimes@gmail.com
+url: https://cyb3rmare.github.io/kpfl25
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
@@ -25,15 +25,15 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2dd7b9 #80B3FF
+  primary: eca0ff #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  secondary: 84ffc9 #FD6E8A
+  secondary-dark: aab2ff #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: Kaycee Greimes
+  location: Kirkland, WA
   social: Around the Web
   credits: Credits
 
@@ -46,11 +46,11 @@ social:
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:kayceegreimes@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: 903 S STATE ST KIRKLAND, WA 98033
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
